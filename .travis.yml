@@ -37,4 +37,4 @@ before_script:
 
 script:
     - date
-    - make testy
+    - make TestCollatz
